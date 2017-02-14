@@ -1,0 +1,29 @@
+body {
+}
+
+.nice-banner{
+	color: white;
+	font-weight: bold;
+	background: #020031;
+	/* Old browsers */
+	background: -moz-linear-gradient(45deg, #020031 0%, #4b6fe5 100%);
+	/* FF3.6+ */
+	background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, #020031), color-stop(100%, #6180e8));
+	/* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(45deg, #020031 0%, #4b6fe5 100%);
+	/* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(45deg, #020031 0%, #4b6fe5 100%);
+	/* Opera 11.10+ */
+	background: -ms-linear-gradient(45deg, #020031 0%, #4b6fe5 100%);
+	/* IE10+ */
+	background: linear-gradient(45deg, #020031 0%, #4b6fe5 100%);
+	/* W3C */
+}
+
+.starter-template {
+  text-align: center;
+}
+
+.right-justify{
+	text-align: right;
+}
