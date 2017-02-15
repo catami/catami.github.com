@@ -18,6 +18,8 @@ body {
 	/* IE10+ */
 	background: linear-gradient(45deg, #020031 0%, #4b6fe5 100%);
 	/* W3C */
+	padding: 1rem 0rem;
+
 }
 
 .starter-template {
@@ -27,3 +29,4 @@ body {
 .right-justify{
 	text-align: right;
 }
+
